@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>No More Breach Raids</name>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <author>No Way Jose</author>
+  <packageId>nowayjose.nomorebreachraids</packageId>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=1546231441</url>
+  <description>
+Breacher Raids suck for almost everyone. Late-game, almost 50% of all raids are Breacher Raids.
+This is a lightweight mod disables the "Breaching Base" raid strategy, which disables storytellers from sending Breachers altogether. You can make sure this mod works for your save by using the "Test Raid Strategy" button in Dev Mode.
+
+Coming Soon (Maybe?)
+I'd love to keep Breacher raids in the game, just significantly rarer. It's possible, but I also want to keep this lightweight and not make a million different uploads. For now, this is just No More Breach Raids. But eventually it might become Customizable Breach Raids.
+
+Credits
+This was a personal-use edit of CANICVS's Turtle Friendly Raids that I thought might be nice to share. His mod also disables Sappers and all types of Drop Pod raiders.
+	</description>
+</ModMetaData>
